@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import './Portfolio.css';
 import Toolbar from './Toolbar';
 import ProjectList from './ProjectList';
 
